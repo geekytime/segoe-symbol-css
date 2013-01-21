@@ -21,6 +21,7 @@ Then you can use icons on any of your html just by adding a class of 'icon-[name
 ```
   <span class="icon-comment"></span>
 ```
+
 <div>
   <span class="icon-comment"></span>
 </div>
