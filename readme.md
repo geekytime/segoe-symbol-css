@@ -21,6 +21,43 @@ Then you can use icons on any of your html just by adding a class of 'icon-[name
 ```
 I named the icons based on [Microsoft's Dev Center Article about Segoe UI Symbol.(http://msdn.microsoft.com/en-us/library/windows/apps/jj841126.aspx)
 
+Here are some examples of the symbols from Segoe Symbol UI.
+
+## Hearts
+!(Hearts)[http://i.msdn.microsoft.com/dynimg/IC632253.png]
+
+## Rating Stars
+!(Rating Stars)[http://i.msdn.microsoft.com/dynimg/IC632254.png]
+
+## Checkbox Components
+!(Checkbox Components)[http://i.msdn.microsoft.com/dynimg/IC632255.png]
+
+## Radio Button Components
+!(Radio Button Components)[http://i.msdn.microsoft.com/dynimg/IC632256.png]
+
+## Miscellaneous
+!(Miscellaneous)[http://i.msdn.microsoft.com/dynimg/IC632257.png]
+
+## Scrollbar Arrows
+!(Miscellaneous)[http://i.msdn.microsoft.com/dynimg/IC632258.png]
+
+## Progressive Disclosure Arrows
+!(Miscellaneous)[http://i.msdn.microsoft.com/dynimg/IC632259.png]
+
+## Back Buttons
+!(Miscellaneous)[http://i.msdn.microsoft.com/dynimg/IC632263.png]
+
+##AppBar Glyphs
+!(AppBar 1)[http://i.msdn.microsoft.com/dynimg/IC632263.png]
+
+!(AppBar 2)[http://i.msdn.microsoft.com/dynimg/IC632264.png]
+
+!(AppBar 3)[http://i.msdn.microsoft.com/dynimg/IC632265.png]
+
+!(AppBar 4)[http://i.msdn.microsoft.com/dynimg/IC632266.png]
+
+!(AppBar 5)[http://i.msdn.microsoft.com/dynimg/IC632267.png]
+
 ## License 
 
 (The MIT License)
