@@ -21,7 +21,7 @@ Then you can use icons on any of your html just by adding a class of 'icon-[name
 ```
 I named the icons based on [Microsoft's Dev Center Article about Segoe UI Symbol.(http://msdn.microsoft.com/en-us/library/windows/apps/jj841126.aspx)
 
-Here are some examples of the symbols from Segoe Symbol UI.
+Here are some examples of the symbols from Segoe UI Symbol.
 
 ## Hearts
 ![Hearts](http://i.msdn.microsoft.com/dynimg/IC632253.png)
