@@ -1,6 +1,3 @@
-
-<link rel="stylesheet" href="https://raw.github.com/geekytime/segoe-symbol-css/master/segoe-ui-symbol.css" />
-
 # Segoe UI Symbol CSS
 
   A CSS file for Windows 8 apps that uses the Segoe UI Symbol font.
@@ -21,10 +18,6 @@ Then you can use icons on any of your html just by adding a class of 'icon-[name
 ```
   <span class="icon-comment"></span>
 ```
-
-<div>
-  <span class="icon-comment"></span>
-</div>
 
 I named the icons based on [Microsoft's Dev Center Article about Segoe UI Symbol.(http://msdn.microsoft.com/en-us/library/windows/apps/jj841126.aspx)
 
