@@ -2,7 +2,7 @@
 
   A CSS file for Windows 8 apps that uses the Segoe UI Symbol font.
 
-  The base CSS content was blatantly stolen from Font Awesome.
+  The base CSS content was blatantly stolen from [Font Awesome](http://fortawesome.github.com/Font-Awesome/).
 
 ## Usage
 
@@ -19,7 +19,7 @@ Then you can use icons on any of your html just by adding a class of 'icon-[name
   <span class="icon-comment"></span>
 ```
 
-I named the icons based on [Microsoft's Dev Center Article about Segoe UI Symbol.(http://msdn.microsoft.com/en-us/library/windows/apps/jj841126.aspx)
+I named the icons based on [Microsoft's Dev Center Article about Segoe UI Symbol.](http://msdn.microsoft.com/en-us/library/windows/apps/jj841126.aspx)
 
 Here are some examples of the symbols from Segoe UI Symbol.
 
