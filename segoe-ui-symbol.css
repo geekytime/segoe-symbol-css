@@ -343,8 +343,8 @@ ul.icons li [class*=" icon-"] {
 .icon-back:before { content: "\E112"; }
 .icon-favorite:before { content: "\E113"; }
 .icon-camera:before { content: "\E114"; }
-.icon-:before { content: "\E115"; }
-.icon-settings:before { content: "\E116"; }
+.icon-settings:before { content: "\E115"; }
+.icon-video:before { content: "\E116"; }
 .icon-sync:before { content: "\E117"; }
 .icon-download:before { content: "\E118"; }
 .icon-mail:before { content: "\E119"; }
